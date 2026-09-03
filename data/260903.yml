@@ -1,0 +1,60 @@
+about:
+  description: The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
+  license: MIT
+  homepage: https://thegolazo.app
+  head: d4edc1a
+  archived: false
+  latestVersion: v0.32.0
+  collectedAt: 2026-09-03T04:54:51Z
+timeline:
+  created: 2025-12-12
+  lastCommit: 2026-09-02
+  lastRelease: 2026-07-24
+popularity:
+  star: 846
+  watcher: 4
+  fork: 59
+  release: 35
+  contributor: 14
+  pullRequest: 6
+  issue: 53
+language:
+  Go: 982520
+  Shell: 7883
+  PowerShell: 4701
+  Nix: 1104
+  Tape: 260
+totalLine: 996468
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 4
+  last90d:
+    since: 2026-06-05
+    release: 9
+    mergedPR: 27
+    openPR: 3
+    closedIssue: 10
+    openIssue: 2
+    commit: 150
+  last180d:
+    since: 2026-03-07
+    release: 12
+    mergedPR: 39
+    openPR: 3
+    closedIssue: 15
+    openIssue: 2
+    commit: 222
+  last360d:
+    since: 2025-09-08
+    release: 35
+    mergedPR: 120
+    openPR: 3
+    closedIssue: 50
+    openIssue: 3
+    commit: 699
