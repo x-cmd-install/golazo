@@ -7,7 +7,7 @@ about:
   head: 37dcc9f
   archived: false
   latestVersion: v0.32.0
-  collectedAt: 2026-09-04T19:54:08Z
+  collectedAt: 2026-09-04T20:46:01Z
 timeline:
   created: 2025-12-12
   lastCommit: 2026-09-03
@@ -84,5 +84,43 @@ total:
   openIssue: 3
   commit: 826
 ---
+path: /home/runner/.x-repo/github.com/0xjuanma/golazo
+collectedAt: 2026-09-04T20:46:01Z
+loc:
+  Go:
+    code: 23318
+    comments: 3238
+    blanks: 3736
+    files: 162
+  Json:
+    code: 557
+    comments: 0
+    blanks: 2
+    files: 3
+  Sh:
+    code: 172
+    comments: 25
+    blanks: 38
+    files: 4
+  PowerShell:
+    code: 92
+    comments: 17
+    blanks: 19
+    files: 1
+  Nix:
+    code: 44
+    comments: 1
+    blanks: 7
+    files: 2
+  Markdown:
+    code: 0
+    comments: 684
+    blanks: 310
+    files: 7
+total:
+  code: 24305
+  comments: 3988
+  blanks: 4127
+  files: 179
 ---
 
