@@ -2,21 +2,21 @@ about:
   description: "The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go."
   license: MIT
   homepage: https://thegolazo.app
-  head: fdb69a4
+  head: ed484fb
   archived: false
-  latestVersion: "v0.32.0"
-  collectedAt: 2026-09-07T04:27:47Z
+  latestVersion: "v0.33.0"
+  collectedAt: 2026-09-07T20:04:59Z
 timeline:
   created: 2025-12-12
-  lastCommit: 2026-09-06
-  lastRelease: 2026-07-24
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-07
 popularity:
-  star: 855
+  star: 858
   watcher: 4
   fork: 60
-  release: 35
+  release: 36
   contributor: 15
-  pullRequest: 128
+  pullRequest: 129
   issue: 55
 language:
   Go: 982632
@@ -28,62 +28,62 @@ totalBytes: 996580
 recent:
   last30d:
     since: 2026-08-08
-    release: 0
-    mergedPR: 3
+    release: 1
+    mergedPR: 4
     openPR: 0
     closedIssue: 2
     openIssue: 0
-    commit: 9
+    commit: 11
   last60d:
     since: 2026-07-09
-    release: 1
-    mergedPR: 5
+    release: 2
+    mergedPR: 6
     openPR: 1
     closedIssue: 2
     openIssue: 0
-    commit: 13
+    commit: 15
   last90d:
     since: 2026-06-09
-    release: 9
-    mergedPR: 30
+    release: 10
+    mergedPR: 31
     openPR: 2
     closedIssue: 11
     openIssue: 2
-    commit: 82
+    commit: 84
   last180d:
     since: 2026-03-11
-    release: 12
-    mergedPR: 42
+    release: 13
+    mergedPR: 43
     openPR: 2
     closedIssue: 17
     openIssue: 2
-    commit: 206
+    commit: 208
   last360d:
     since: 2025-09-12
-    release: 35
-    mergedPR: 123
+    release: 36
+    mergedPR: 124
     openPR: 2
     closedIssue: 52
     openIssue: 3
-    commit: 706
+    commit: 708
   last720d:
     since: 2024-09-17
-    release: 35
-    mergedPR: 123
+    release: 36
+    mergedPR: 124
     openPR: 2
     closedIssue: 52
     openIssue: 3
-    commit: 834
+    commit: 837
 total:
-  release: 35
-  mergedPR: 123
+  release: 36
+  mergedPR: 124
   openPR: 2
   closedIssue: 52
   openIssue: 3
-  commit: 834
+  commit: 837
 ---
 path: /home/runner/.x-repo/github.com/0xjuanma/golazo
-collectedAt: 2026-09-07T04:27:49Z
+collectedAt: 2026-09-07T20:04:59Z
 loc:
   Go:
     code: 23319
@@ -112,47 +112,47 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 687
-    blanks: 310
+    comments: 693
+    blanks: 315
     files: 7
 total:
   code: 24306
-  comments: 3991
-  blanks: 4127
+  comments: 3997
+  blanks: 4132
   files: 179
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:27:50+00:00
+  collectedAt: 2026-09-07T20:05:00+00:00
   platform:
     darwin/arm64:
       name:  golazo-darwin-arm64
-      url:   https://github.com/0xjuanma/golazo/releases/download/v0.32.0/golazo-darwin-arm64
-      size:  10857346
+      url:   https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-darwin-arm64
+      size:  11072162
       score: 40
     darwin/amd64:
       name:  golazo-darwin-amd64
-      url:   https://github.com/0xjuanma/golazo/releases/download/v0.32.0/golazo-darwin-amd64
-      size:  11498272
+      url:   https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-darwin-amd64
+      size:  11514816
       score: 40
     linux/arm64:
       name:  golazo-linux-arm64
-      url:   https://github.com/0xjuanma/golazo/releases/download/v0.32.0/golazo-linux-arm64
-      size:  10944696
+      url:   https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-linux-arm64
+      size:  11141304
       score: 40
     linux/amd64:
       name:  golazo-linux-amd64
-      url:   https://github.com/0xjuanma/golazo/releases/download/v0.32.0/golazo-linux-amd64
-      size:  11632932
+      url:   https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-linux-amd64
+      size:  11645220
       score: 40
     win/arm64:
       name:  golazo-windows-arm64.exe
-      url:   https://github.com/0xjuanma/golazo/releases/download/v0.32.0/golazo-windows-arm64.exe
-      size:  13177344
+      url:   https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-windows-arm64.exe
+      size:  13381120
       score: 40
     win/amd64:
       name:  golazo-windows-amd64.exe
-      url:   https://github.com/0xjuanma/golazo/releases/download/v0.32.0/golazo-windows-amd64.exe
-      size:  14187008
+      url:   https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-windows-amd64.exe
+      size:  14202368
       score: 40
