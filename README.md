@@ -12,6 +12,18 @@ The beautiful game in your terminal. Minimal TUI app to keep up with live & rece
 x install golazo
 ```
 
+## Code insight
+
+Total: **24,184** lines of code across **172** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 23,319 | 3,238 | 3,736 | 162 |
+| Json | 557 | 0 | 2 | 3 |
+| Sh | 172 | 25 | 38 | 4 |
+| PowerShell | 92 | 17 | 19 | 1 |
+| Nix | 44 | 1 | 7 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/0xjuanma/golazo>
@@ -23,17 +35,6 @@ x install golazo
 - **Latest**: `v0.33.0` (2026-09-07)
 - **Last commit**: 2026-09-07
 - **Assets in release**: 6
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [golazo-darwin-amd64](https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-darwin-amd64) | 11.0 MiB | `native/darwin/x64` |
-| [golazo-darwin-arm64](https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-darwin-arm64) | 10.6 MiB | `native/darwin/arm64` |
-| [golazo-linux-amd64](https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-linux-amd64) | 11.1 MiB | `native/linux/x64` |
-| [golazo-linux-arm64](https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-linux-arm64) | 10.6 MiB | `native/linux/arm64` |
-| [golazo-windows-amd64.exe](https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-windows-amd64.exe) | 13.5 MiB | `native/win/x64` |
-| [golazo-windows-arm64.exe](https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-windows-arm64.exe) | 12.8 MiB | `native/win/arm64` |
 
 ## Popularity
 
@@ -48,20 +49,30 @@ x install golazo
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 4 | 0 | 2 | 0 | 11 |
+| last60d | 2026-07-12 | 2 | 6 | 1 | 2 | 0 | 15 |
 | 90d | 2026-06-12 | 9 | 22 | 2 | 8 | 1 | 84 |
+| last180d | 2026-03-14 | 13 | 42 | 2 | 17 | 2 | 208 |
 | 360d | 2025-09-15 | 36 | 124 | 2 | 52 | 3 | 708 |
+| last720d | 2024-09-20 | 36 | 124 | 2 | 52 | 3 | 837 |
 
-## Code size
+## Release assets
 
-Total: **24,184** lines of code across **172** files in the top 5 languages.
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [golazo-darwin-amd64](https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-darwin-amd64) | 11.0 MiB | `native/darwin/x64` |
+| [golazo-darwin-arm64](https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-darwin-arm64) | 10.6 MiB | `native/darwin/arm64` |
+| [golazo-linux-amd64](https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-linux-amd64) | 11.1 MiB | `native/linux/x64` |
+| [golazo-linux-arm64](https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-linux-arm64) | 10.6 MiB | `native/linux/arm64` |
+| [golazo-windows-amd64.exe](https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-windows-amd64.exe) | 13.5 MiB | `native/win/x64` |
+| [golazo-windows-arm64.exe](https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-windows-arm64.exe) | 12.8 MiB | `native/win/arm64` |
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 23,319 | 3,238 | 3,736 | 162 |
-| Json | 557 | 0 | 2 | 3 |
-| Sh | 172 | 25 | 38 | 4 |
-| PowerShell | 92 | 17 | 19 | 1 |
-| Nix | 44 | 1 | 7 | 2 |
+## Distribution status
+
+Reported by **4** distros on [repology.org](https://repology.org/project/golazo). **2** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.26.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -72,4 +83,4 @@ Install metadata for golazo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:05:21Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:20:50Z._
