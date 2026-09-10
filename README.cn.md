@@ -4,7 +4,7 @@
 
 The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
 
-![golazo](https://repo.x-cmd.io/golazo.svg)
+![golazo](https://repo.x-cmd.io/golazo.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,17 @@ x install golazo
 - **最新版本**: `v0.33.0` (2026-09-07)
 - **最近提交**: 2026-09-07
 - **Release 含资产**: 6 个
-- **发布时间**: 2026-09-07T16:48:26Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [golazo-darwin-amd64](https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-darwin-amd64) | 11.0 MiB | `native/darwin/x64` |
+| [golazo-darwin-arm64](https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-darwin-arm64) | 10.6 MiB | `native/darwin/arm64` |
+| [golazo-linux-amd64](https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-linux-amd64) | 11.1 MiB | `native/linux/x64` |
+| [golazo-linux-arm64](https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-linux-arm64) | 10.6 MiB | `native/linux/arm64` |
+| [golazo-windows-amd64.exe](https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-windows-amd64.exe) | 13.5 MiB | `native/win/x64` |
+| [golazo-windows-arm64.exe](https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-windows-arm64.exe) | 12.8 MiB | `native/win/arm64` |
 
 ## 流行度
 
@@ -62,4 +72,4 @@ golazo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:33:27Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:05:22Z._
