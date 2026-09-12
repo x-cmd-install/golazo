@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11072162,
       "digest": "sha256:282adbdba0057a8aa1d9baacf5fa6aa8b7a92e07522015097663842aa68daf48",
-      "download_count": 94,
+      "download_count": 95,
       "created_at": "2026-09-07T16:49:33Z",
       "updated_at": "2026-09-07T16:49:34Z",
       "browser_download_url": "https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-darwin-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 11645220,
       "digest": "sha256:7da7303d5dc35c0bdd16a191cc914cb167dc669c4383766ba3f57a71c79c30a5",
-      "download_count": 111,
+      "download_count": 117,
       "created_at": "2026-09-07T16:49:33Z",
       "updated_at": "2026-09-07T16:49:34Z",
       "browser_download_url": "https://github.com/0xjuanma/golazo/releases/download/v0.33.0/golazo-linux-amd64"
