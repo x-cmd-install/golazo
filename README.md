@@ -48,12 +48,12 @@ Total: **24,184** lines of code across **172** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 4 | 1 | 2 | 1 | 11 |
-| last60d | 2026-07-16 | 2 | 6 | 2 | 2 | 1 | 15 |
-| 90d | 2026-06-16 | 6 | 14 | 3 | 5 | 2 | 54 |
-| last180d | 2026-03-18 | 13 | 42 | 3 | 17 | 3 | 204 |
-| 360d | 2025-09-19 | 36 | 124 | 3 | 52 | 4 | 708 |
-| last720d | 2024-09-24 | 36 | 124 | 3 | 52 | 4 | 837 |
+| 30d | 2026-08-16 | 1 | 4 | 1 | 2 | 1 | 11 |
+| last60d | 2026-07-17 | 2 | 6 | 2 | 2 | 1 | 15 |
+| 90d | 2026-06-17 | 5 | 14 | 3 | 4 | 1 | 54 |
+| last180d | 2026-03-19 | 13 | 42 | 3 | 17 | 3 | 204 |
+| 360d | 2025-09-20 | 36 | 124 | 3 | 52 | 4 | 708 |
+| last720d | 2024-09-25 | 36 | 124 | 3 | 52 | 4 | 837 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for golazo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T04:51:19Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T04:47:16Z._
