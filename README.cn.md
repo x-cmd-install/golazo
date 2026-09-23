@@ -4,7 +4,7 @@
 
 The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
 
-[![x-cmd/install — golazo Code Quality Monitoring Repo Card](https://repo.x-cmd.io/golazo.svg?lang=zh)](https://x-cmd.com/install/golazo)
+[![x-cmd/install — golazo Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/golazo.svg?lang=zh)](https://x-cmd.com/install/golazo)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install golazo
 
 ## 流行度
 
-- **Star**: 863 · **Fork**: 61 · **开放 issue**: 56 · **贡献者**: 15
+- **Star**: 863 · **Fork**: 62 · **开放 issue**: 56 · **贡献者**: 15
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install golazo
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 4 | 1 | 2 | 1 | 11 |
-| last60d | 2026-07-24 | 2 | 5 | 2 | 2 | 1 | 11 |
-| 90d | 2026-06-24 | 4 | 11 | 2 | 3 | 1 | 29 |
-| last180d | 2026-03-26 | 13 | 41 | 3 | 17 | 3 | 204 |
-| 360d | 2025-09-27 | 36 | 124 | 3 | 52 | 4 | 708 |
-| last720d | 2024-10-02 | 36 | 124 | 3 | 52 | 4 | 837 |
+| 30d | 2026-08-24 | 1 | 4 | 1 | 2 | 1 | 11 |
+| last60d | 2026-07-25 | 1 | 5 | 2 | 2 | 1 | 11 |
+| 90d | 2026-06-25 | 4 | 11 | 2 | 3 | 1 | 29 |
+| last180d | 2026-03-27 | 13 | 41 | 3 | 17 | 3 | 204 |
+| 360d | 2025-09-28 | 36 | 124 | 3 | 52 | 4 | 708 |
+| last720d | 2024-10-03 | 36 | 124 | 3 | 52 | 4 | 837 |
 
 ## Release 资产
 
@@ -75,4 +75,4 @@ golazo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:46:24Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:47:20Z._

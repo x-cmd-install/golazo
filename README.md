@@ -4,7 +4,7 @@
 
 The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
 
-[![x-cmd/install — golazo Code Quality Monitoring Repo Card](https://repo.x-cmd.io/golazo.svg)](https://x-cmd.com/install/golazo)
+[![x-cmd/install — golazo Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/golazo.svg)](https://x-cmd.com/install/golazo)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **24,184** lines of code across **172** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 863 · **Forks**: 61 · **Open issues**: 56 · **Contributors**: 15
+- **Stars**: 863 · **Forks**: 62 · **Open issues**: 56 · **Contributors**: 15
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **24,184** lines of code across **172** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 4 | 1 | 2 | 1 | 11 |
-| last60d | 2026-07-24 | 2 | 5 | 2 | 2 | 1 | 11 |
-| 90d | 2026-06-24 | 4 | 11 | 2 | 3 | 1 | 29 |
-| last180d | 2026-03-26 | 13 | 41 | 3 | 17 | 3 | 204 |
-| 360d | 2025-09-27 | 36 | 124 | 3 | 52 | 4 | 708 |
-| last720d | 2024-10-02 | 36 | 124 | 3 | 52 | 4 | 837 |
+| 30d | 2026-08-24 | 1 | 4 | 1 | 2 | 1 | 11 |
+| last60d | 2026-07-25 | 1 | 5 | 2 | 2 | 1 | 11 |
+| 90d | 2026-06-25 | 4 | 11 | 2 | 3 | 1 | 29 |
+| last180d | 2026-03-27 | 13 | 41 | 3 | 17 | 3 | 204 |
+| 360d | 2025-09-28 | 36 | 124 | 3 | 52 | 4 | 708 |
+| last720d | 2024-10-03 | 36 | 124 | 3 | 52 | 4 | 837 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for golazo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:46:23Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:47:20Z._
