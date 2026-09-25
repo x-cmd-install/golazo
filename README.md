@@ -38,7 +38,7 @@ Total: **24,184** lines of code across **172** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 863 · **Forks**: 62 · **Open issues**: 56 · **Contributors**: 15
+- **Stars**: 865 · **Forks**: 62 · **Open issues**: 56 · **Contributors**: 15
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **24,184** lines of code across **172** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 1 | 4 | 1 | 2 | 1 | 11 |
-| last60d | 2026-07-26 | 1 | 4 | 2 | 2 | 1 | 11 |
-| 90d | 2026-06-26 | 4 | 10 | 2 | 3 | 1 | 29 |
-| last180d | 2026-03-28 | 13 | 41 | 3 | 17 | 3 | 204 |
-| 360d | 2025-09-29 | 36 | 124 | 3 | 52 | 4 | 708 |
-| last720d | 2024-10-04 | 36 | 124 | 3 | 52 | 4 | 837 |
+| 30d | 2026-08-26 | 1 | 4 | 1 | 2 | 1 | 11 |
+| last60d | 2026-07-27 | 1 | 4 | 2 | 2 | 1 | 11 |
+| 90d | 2026-06-27 | 3 | 10 | 2 | 3 | 1 | 29 |
+| last180d | 2026-03-29 | 13 | 41 | 3 | 17 | 3 | 204 |
+| 360d | 2025-09-30 | 36 | 124 | 3 | 52 | 4 | 708 |
+| last720d | 2024-10-05 | 36 | 124 | 3 | 52 | 4 | 837 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for golazo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:38:59Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T04:48:06Z._
