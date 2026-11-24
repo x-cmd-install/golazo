@@ -38,22 +38,22 @@ Total: **24,184** lines of code across **172** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 897 · **Forks**: 63 · **Open issues**: 58 · **Contributors**: 15
+- **Stars**: 895 · **Forks**: 60 · **Open issues**: 56 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 124 · **Open PRs**: 4 · **Closed issues**: 52 · **Open issues**: 6 · **Commits**: 837
+- **Releases**: 36 · **Merged PRs**: 124 · **Open PRs**: 2 · **Closed issues**: 52 · **Open issues**: 4 · **Commits**: 837
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 0 | 2 | 0 | 2 | 0 |
-| 90d | 2026-08-25 | 1 | 4 | 3 | 2 | 3 | 11 |
-| last180d | 2026-05-27 | 11 | 34 | 4 | 14 | 5 | 159 |
-| 360d | 2025-11-28 | 36 | 124 | 4 | 52 | 6 | 708 |
-| last720d | 2024-12-03 | 36 | 124 | 4 | 52 | 6 | 837 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-26 | 1 | 4 | 1 | 2 | 1 | 11 |
+| last180d | 2026-05-28 | 11 | 34 | 2 | 14 | 3 | 159 |
+| 360d | 2025-11-29 | 36 | 124 | 2 | 52 | 4 | 708 |
+| last720d | 2024-12-04 | 36 | 124 | 2 | 52 | 4 | 837 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for golazo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:51:29Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:47:09Z._
